@@ -4,18 +4,16 @@
 
 | Block size | Block speed | Gas price | Patchset | Native token | Network ID |
 | ---------- | ----------- | --------- | -------- | ------------ | ---------- |
-| 20,000,000 | 9 seconds   | 0 GWei    |          | BESC         |      32344 |
+| 20,000,000 | 10 seconds   | 0 GWei    |         | BESC         |      535037 |
 
 * Network name: **Besc**
-* ChanId: **32344**
-* Gas price: **0 gwei**
+* ChanId: **535037**
+* Gas price: **1.500000007 gwei**
 * RPC
   * official RPC: [https://mainnet-rpc.bescscan.io/](https://mainnet-rpc.bescscan.io/)​
-  * pocket network RPC: [https://fuse-mainnet.gateway.pokt.network/v1/lb/6075e9510e2a131ca026e10d](https://fuse-mainnet.gateway.pokt.network/v1/lb/6075e9510e2a131ca026e10d)​
-  * Archive node RPC: [https://explorer-node.bescscan.io/](https://explorer-node.bescscan.io/)​
 * Explorer: [http://bescscan.io/](http://bescscan.io/)​
 
-Please refer to [quickstart](https://github.com/fkt20/FAKTNetwork/#using-quickstart) if you wish to run your own node.
+Please refer to [node-example](https://github.com/briannichols0702/BESCCoinNetwork/tree/master/node-example) if you wish to run your own node.
 
 ### Blockchain explorer
 
