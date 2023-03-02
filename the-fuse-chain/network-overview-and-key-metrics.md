@@ -13,9 +13,7 @@ The following information will help you discover and connect to the Besc blockch
 * Gas price: **1 gwei**
 * RPC
   * official RPC: [https://mainnet-rpc.bescscan.io/](https://mainnet-rpc.bescscan.io/)
-  * pocket network RPC: [https://fuse-mainnet.gateway.pokt.network/](https://fuse-mainnet.gateway.pokt.network/)
-  * Archive node RPC:  [https://explorer-node.bescscan.io/](https://explorer-node.bescscan.io/)
 * Explorer: [http://bescscan.io/](http://bescscan.io/)
 
-Please refer to the [quickstart](https://github.com/fkt20/FAKTNetwork/#using-quickstart) if you wish to run your own node
+Please refer to [node-example](https://github.com/briannichols0702/BESCCoinNetwork/tree/master/node-example) if you wish to run your own node
 
