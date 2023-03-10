@@ -12,21 +12,6 @@ This bridge is two layer bridge. In the base level the Arbitrary Message Bridge 
 
 The contract is called an "inverse-native" bridge, because the home and foreign network are inversed. In that case Besc network is foreign and BSC is the home network.‌
 
-## Contracts <a id="contracts"></a>
-
-Home side of the bridge on the BSC network: [0x51849F05090b222FFc329DC8825de0D7e26F84A1](https://bscscan.com/address/0x51849F05090b222FFc329DC8825de0D7e26F84A1)​‌
-
-Foreign side of the bridge on the Besc network: [0xA3C59198c10cB1ba9A3Ab924A23253072b393f25](https://bescscan.io/address/0xA3C59198c10cB1ba9A3Ab924A23253072b393f25)​‌
-
-BNB token on the Besc network: [0x6acb34b1Df86E254b544189Ec32Cf737e2482058](https://bescscan.io/address/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/transactions)​‌
-
-Home side of the AMB bridge on the BSC network: [0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6](https://bscscan.com/address/0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6)​‌
-
-Foreign side of the AMB bridge on the Besc network: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://bescscan.io/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706)​‌
-
-## Source Code <a id="source-code"></a>
-
-‌​[https://github.com/fuseio/tokenbridge-contracts](https://github.com/fuseio/tokenbridge-contracts)​‌
 
 ## How to use <a id="how-to-use"></a>
 
