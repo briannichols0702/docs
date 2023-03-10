@@ -30,7 +30,7 @@ _This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethe
 
 ![](../.gitbook/assets/6%20%286%29.png)
 
-**Step 5:** Now that you have logged in to your address in Ledger through MyEtherWallet on Besc network, you can see your Besc address \(Fusenet\), balance, etc.
+**Step 5:** Now that you have logged in to your address in Ledger through MyEtherWallet on Besc network, you can see your Besc address), balance, etc.
 
 ![](../.gitbook/assets/7%20%284%29.png)
 
