@@ -12,5 +12,5 @@ Optionally you can add the full parameters:
 **symbol**: BESC
 {% endhint %}
 
-1. **\`\`**![](.gitbook/assets/ez2.png)
+
 
