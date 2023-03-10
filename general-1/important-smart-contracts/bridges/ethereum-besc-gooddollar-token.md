@@ -1,2 +1,2 @@
-# Ethereum ↔ Besc GoodDollar Token
+# BSC ↔ Besc
 
