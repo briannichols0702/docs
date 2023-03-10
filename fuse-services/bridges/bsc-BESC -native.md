@@ -11,8 +11,8 @@ description: >-
 This bridge is two layer bridge. In the base level the Arbitrary Message Bridge \(AMB\) is responsible for relaying messages between the networks. On top of the AMB,  the pluggable mediators implement a contract logic of token relaying of various assets. More info [https://docs.tokenbridge.net/amb-bridge/about-amb-bridge](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge)
 
 ## Contracts
-
-Home side of the bridge on the Besc network: [0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD](https://bescscan.io/address/0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD/transactions)a3Fe39c9040e7e3E9caA7F0D5bd6)
+I
+Home side of the bridge on the Besc network: [0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD](https://bescscan.io/address/0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD/transactions)
 
 ## Source Code
 
