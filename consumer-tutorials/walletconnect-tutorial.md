@@ -1,15 +1,13 @@
-# How to use WalletConnect on fuse.cash and add liquidity on Fuseswap
+# How to use WalletConnect and add liquidity on BeanSwap 
 
-We will learn how to connect Besc cash wallet to various fuse DApps through WalletConnect feature and add liquidity to Fuseswap through Besc cash wallet.
+We will learn how to connect Besc wallet to various  DApps through WalletConnect feature and add liquidity to BeanSwap through Besc wallet.
 
 Mobile OS- Android  
 App version used- 0.1.14.144
 
 **Step 1:**
 
-Open your Besc cash wallet on your phone and the interface shown will be similar to the one shown in the image below.
-
-![](../.gitbook/assets/0%20%283%29.jpeg)
+Open your Besc wallet on your phone and the interface shown will be similar to the o
 
 **Step 2:**
 
