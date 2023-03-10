@@ -2,8 +2,8 @@
 
 1. Download the Besc wallet from the following links:
 
-* For iOS users: [https://apps.apple.com/il/app/fuse-wallet/id1491783654](https://apps.apple.com/)
-* For Android users: [https://play.google.com/store/apps/details?id=io.fuse.fusecash](https://play.google.com/)
+* For iOS users: [https://apps.apple.com/il/](https://apps.apple.com/)
+* For Android users: [https://play.google.com/store/apps](https://play.google.com/)
 
    2. After installing the app register and open the sidebar and click on "Switch community" and click "scan the QR code"
 
