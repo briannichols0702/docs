@@ -1,12 +1,12 @@
 ---
-description: FuseSwap API is an auxiliary service to ease the integration with FuseSwap DEX
+description: BeanSwap API is an auxiliary service to ease the integration with BeanSwap DEX
 ---
 
-# Fuseswap API
+# BeanSwap  API
 
-## Fuseswap Backend API v0.1.0
+## BeanSwap  Backend API v0.1.0
 
-The Fuseswap Backend REST API is used for generating trading data for frontend clients
+The BeanSwap  Backend REST API is used for generating trading data for frontend clients
 
 ## PriceChange
 
