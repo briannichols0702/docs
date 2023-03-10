@@ -17,7 +17,7 @@ Navigate to [www.BeanSwap.finance](https://beanswap.finance/) .The interface wil
 
 Use **“Connect to a wallet”** on the right hand top corner to connect your wallet with BeanSwap. Once you connect you should be able to see your wallet address and see that you are connected to BeanSwap via Besc network.
 
-![](../.gitbook/assets/1%20%2810%29.png)
+
 
   
 **Step 2:**
