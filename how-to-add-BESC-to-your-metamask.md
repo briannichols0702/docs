@@ -7,7 +7,7 @@
 Optionally you can add the full parameters:
 
 **Additional**: [https://mainnet-rpc.bescscan.io](https://mainnet-rpc.bescscan.io)  
-**ChainId**: 39656  
+**ChainId**: 535037  
 **Explorer**: [https://bescscan.io](https://bescscan.io/)  
 **symbol**: BESC
 {% endhint %}
