@@ -10,7 +10,7 @@ How to Stake BESC:
 
 **Step 1:**
 
-Navigate to staking.bescscan.io and login to your wallet through metamask. Make sure you are on Besc network. If you are not please follow the instructions [**here**](https://docs.bescscan.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Navigate to staking.bescscan.io and login to your wallet through metamask. Make sure you are on Besc network. If you are not please follow the instructions.
 
 ![](.gitbook/assets/0%20%284%29.png)
 
