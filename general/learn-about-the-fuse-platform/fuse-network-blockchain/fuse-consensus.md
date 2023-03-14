@@ -8,7 +8,7 @@ There are 2 aspects to the process - the actual consensus mechanism to add trans
 
 Besc uses delegated Proof of Stake (dPoS) to provide Sybil protection and align the validator incentives.
 
-In order to participate in securing the network consensus, a node operator must stake a minimum required amount of BESC tokens (currently set at 100,000 BESC). Becoming a validator on Besc is permissionless, meaning that a node operator just needs to satisfy certain technical requirements. The need to stake BESC ensures that an entity cannot create multiple seemingly distinct validators without incurring a significant cost. Hence, the Sybil protection. Currently, the maximum number of validators on Besc is 100.
+In order to participate in securing the network consensus, a node operator must stake a minimum required amount of BESC tokens (currently set at 10,000 BESC). Becoming a validator on Besc is permissionless, meaning that a node operator just needs to satisfy certain technical requirements. The need to stake BESC ensures that an entity cannot create multiple seemingly distinct validators without incurring a significant cost. Hence, the Sybil protection. Currently, the maximum number of validators on Besc is 100 and will never be reached.
 
 The validator who publishes a block agreed upon during a given consensus round is rewarded by the network protocol in newly minted BESC tokens. They also receive the fees users paid for the transactions included into the block.
 
