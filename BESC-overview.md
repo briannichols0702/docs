@@ -6,11 +6,10 @@ Besc is a permissionless and border-less public ledger designed for easy integra
 
 User data in the Besc network is stored by the users on their devices and they decide who to share it with using standard web3.0 interfaces. The users can join communities and community contracts define their data and governance policies. Those communities can be governed by individuals or organizations, everything is public and transparent on the blockchain.
 
-Besc Studio allows users to easily launch and operate new communities, with a built-in contract store that enables easy launch of new features and integrated services - fiat on-ramps, business management plugins, community management functionality and much more.
+Besc  allows users to easily launch and operate new communities, with a built-in contract store that enables easy launch of new features and integrated services - fiat on-ramps, business management plugins, community management functionality and much more.
 
 ## The Besc software stack
 
-![](.gitbook/assets/fuse-network-architecture2.jpg)
 
 ## What is the status of the network?
 
@@ -32,14 +31,6 @@ At the heart of the network is the open source stack suited for individuals and 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Besc Studio</td>
-      <td style="text-align:left">&#x26A1;Launched on Ethereum mainnet and Besc.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Besc Wallet</td>
-      <td style="text-align:left">
-        <p>&#x26A1;First Flutter Ethereum wallet launched to Github</p>
-        <p>&#x26A1;Launched on Google play and Apple store free to download and customize.</p>
       </td>
     </tr>
   </tbody>
