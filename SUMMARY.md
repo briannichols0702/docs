@@ -57,10 +57,8 @@
 
 ## Links
 
-* [Discord](https://discord.com)
 * [Facebook](https://www.facebook.com/profile.php?id=100089045946982\&mibextid=ZbWKwL)
 * [GitHub](https://github.com/briannichols0702/)
-* [LinkedIn](https://www.linkedin.com/company/)
 * [Medium](https://medium.com/)
 * [Telegram](https://t.me/beanecosystem)
 * [Twitter](https://twitter.com/BeanEcoChain)
