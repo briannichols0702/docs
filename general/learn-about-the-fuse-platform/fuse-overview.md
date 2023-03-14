@@ -32,6 +32,4 @@ The Besc platform has three main components:&#x20;
 
 1\) **The Besc blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the Besc platform and ecosystem.&#x20;
 
-2\) **The mobile-centric open-source technology stack** designed to help businesses and developers plug crypto payments into real-world use cases. This toolkit has subsumed into the new [Besc Charge](https://chargeweb3.com/) API platform.&#x20;
-
-3\) **A set of reference decentralized finance (DeFi) products and tools**. The goal of these is to pave the way for the initial adoption of the platform. \
+2\) **A set of reference decentralized finance (DeFi) products and tools**. The goal of these is to pave the way for the initial adoption of the platform. \
