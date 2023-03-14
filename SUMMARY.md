@@ -56,12 +56,13 @@
 
 ***
 
-* [Bean Swap Dex](bean-swap-dex/README.md)
+* [Bean Swap Dex](bean-swap-dex.md)
   * [Get Started](bean-swap-dex/get-started/README.md)
     * [Create Wallet](bean-swap-dex/get-started/create-wallet/README.md)
       * [Get BESC Coin](bean-swap-dex/get-started/create-wallet/get-besc-coin/README.md)
         * [Using BeanSwap without Centralized Exchanges](bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/README.md)
-          * [Connect Your Wallet to BeanSwap](bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/connect-your-wallet-to-beanswap.md)
+          * [Connect Your Wallet to BeanSwap](bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/connect-your-wallet-to-beanswap/README.md)
+            * [Click Here For Help](bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/connect-your-wallet-to-beanswap/click-here-for-help.md)
 * [BESC Locker](besc-locker.md)
 
 ## Links

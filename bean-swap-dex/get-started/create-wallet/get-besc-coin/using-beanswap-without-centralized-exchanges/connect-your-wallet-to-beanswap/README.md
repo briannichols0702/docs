@@ -8,7 +8,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../../../../../.gitbook/assets/meta mask.webp>)
+![](<../../../../../../.gitbook/assets/meta mask.webp>)
 
 To connect MetaMask to BeanSwap follow the steps below.
 
@@ -16,19 +16,19 @@ To connect MetaMask to BeanSwap follow the steps below.
 
 1. Open MetaMask and tap on the **burger icon** in the top-left.
 
-![](../../../../../.gitbook/assets/network.webp)
+![](../../../../../../.gitbook/assets/network.webp)
 
 1. Tap **Settings** in the menu.
 
-![](../../../../../.gitbook/assets/setting.webp)
+![](../../../../../../.gitbook/assets/setting.webp)
 
 1. In the Settings menu, tap on **Network**.
 
-![](<../../../../../.gitbook/assets/select network.webp>)
+![](<../../../../../../.gitbook/assets/select network.webp>)
 
 1. Tap on the **Add Network** button at the bottom.
 
-![](../../../../../.gitbook/assets/add.webp)
+![](../../../../../../.gitbook/assets/add.webp)
 
 1. On the page that opens, type in the following details:
 
@@ -40,7 +40,7 @@ To connect MetaMask to BeanSwap follow the steps below.
 
 1. Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
 
-![](../../../../../.gitbook/assets/add.webp)
+![](../../../../../../.gitbook/assets/add.webp)
 
 1. Type "BeanSwap" into the search field and start the search. The top result will be the BeanSwap exchange. Tap to enter it.
 2. You wallet will ask you to connect. Tap **Connect** to connect to PancakeSwap.
