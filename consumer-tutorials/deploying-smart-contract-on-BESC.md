@@ -12,7 +12,7 @@ Remix also supports testing, debugging and deploying of smart contracts and much
 
  **Pre-requisites:**
 
-Since we interact with remix using Metamask, you need to change the network to Besc network by adding a custom RPC. Please follow the steps in [this tutorial](https://docs.bescscan.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) to do that.
+Since we interact with remix using Metamask, you need to change the network to Besc network by adding a custom RPC. Please follow the steps to add BESC to MetaMask.
 
 You need to have a small balance of BESC on the MetaMask wallet you are using which will be used as Gas for the transactions.
 
