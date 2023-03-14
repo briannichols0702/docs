@@ -39,9 +39,7 @@ Now let’s learn how to Send/Receive **BESC** on MEW.
 
 Note: You need to have Ethereum in your wallet which will be used as “Gas fees” to send BESC on MEW.
 
-![](../.gitbook/assets/9%20%282%29.png)
 
-![](../.gitbook/assets/10%20%281%29.png)
 
 Double check all the details, click **“Confirm and Send”** and wait for your transaction to be confirmed on-chain.
 
