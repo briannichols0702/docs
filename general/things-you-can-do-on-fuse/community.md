@@ -1,6 +1,6 @@
 # Community
 
-**Twitter**: [https://twitter.com/](https://twitter.com/BeanEcoChain)&#x20;
+**Twitter**: [https://twitter.com/BeanEcoChain](https://twitter.com/BeanEcoChain)&#x20;
 
 **Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ)&#x20;
 
