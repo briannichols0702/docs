@@ -5,7 +5,7 @@
 In order to be a Besc validator, you first must see that you meet the pre-requirements:
 
 * You know what it means to be a Besc validator - How to become a validator
-* You have at least 10K BESC tokens or you will have an aggregated delegation of at least 10K BESC tokens (you can purchase BESC token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)).
+* You have at least 10K BESC tokens or you will have an aggregated delegation of at least 10K BESC tokens (you can purchase BESC token on [BeanSwap](https://beanswap.finance/swap)).
 
 ## How to become a Besc validator
 
