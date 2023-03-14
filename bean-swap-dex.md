@@ -26,14 +26,14 @@ Unlike centralized exchanges like Binance or Coinbase, BeanSwap doesn’t hold y
 
 > Earn BESC and other tokens for free with super high interest rates.
 
-### Earn tokens with Syrup Pools
+### Earn tokens with Pools
 
 Stake BESC, earn free tokens. It’s really that easy.\
 New projects join the party frequently, so you can earn more, for even longer.
 
-### Earn CAKE with Yield Farms
+### Earn BESC with Yield Farms
 
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+Stake LP tokens, earn BESC. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
 
 ### Earn Trading Fees
 
