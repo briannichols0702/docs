@@ -17,7 +17,7 @@ Every 5 seconds, the network groups the latest transactions broadcasted to the s
 
 For this work the validators receive block reward (X per block). A yearly inflation of 5% is distributed between all validators (the block reward is updated to accommodate this functionality).
 
-Validators are contributing their computer resources to maintain the network and need to have some technical knowledge in dealing with hosting this kind of software (see [Running a validator node](broken-reference)) and [participate in the network governance through voting](broken-reference).
+Validators are contributing their computer resources to maintain the network and need to have some technical knowledge in dealing with hosting this kind of software Running a validator node and participate in the network governance through voting.
 
 Validators are the guardians of the network and are in charge of not only maintaining it but also to steer it in its future through the governance mechanism that allows any holder of Besc token to vote on important decisions and upgrades to the network in its development and resource allocation.
 
