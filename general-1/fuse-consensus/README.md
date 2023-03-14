@@ -20,7 +20,7 @@ The snapshots are taken of pending validators, who are those which staked more t
 
 Stake amount for a validator is the sum of staked and delegated amount to it's address.
 
-This contract is based on `non-reporting ValidatorSet` [described in Parity Wiki](https://wiki.parity.io/Validator-Set.html#non-reporting-contract).
+This contract is based on `non-reporting ValidatorSets.
 
 {% hint style="info" %}
 minimum stake amount = 10,000 Besc token
