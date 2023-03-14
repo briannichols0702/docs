@@ -1,5 +1,5 @@
 ---
-description: Steps on deploying a smart contract on Fusenet through Remix.
+description: Steps on deploying a smart contract on Besc through Remix.
 ---
 
 # Deploying smart contract on Fusenet
