@@ -62,7 +62,8 @@
       * [Get BESC Coin](bean-swap-dex/get-started/create-wallet/get-besc-coin/README.md)
         * [Using BeanSwap without Centralized Exchanges](bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/README.md)
           * [Connect Your Wallet to BeanSwap](bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/connect-your-wallet-to-beanswap/README.md)
-            * [Click Here For Help](bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/connect-your-wallet-to-beanswap/click-here-for-help.md)
+            * [Click Here For Help](bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/connect-your-wallet-to-beanswap/click-here-for-help/README.md)
+              * [Fixing Stuck Pending Transactions on MetaMask](bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/connect-your-wallet-to-beanswap/click-here-for-help/fixing-stuck-pending-transactions-on-metamask.md)
 * [BESC Locker](besc-locker.md)
 
 ## Links
