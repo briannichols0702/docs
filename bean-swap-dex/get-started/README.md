@@ -6,11 +6,11 @@ Using anything new can be a bit of a challenge. Don't worry though, we've create
 
 Follow these guides to get everything set up to use BeanSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
-Create a wallet
+[Create a wallet](https://docs.bescscan.io/bean-swap-dex/get-started/create-wallet)
 
-Get BESC20 Tokens
+[Get BESC20 Tokens](https://docs.bescscan.io/bean-swap-dex/get-started/create-wallet/get-besc-coin)
 
-Connect your wallet to Beanswap
+[Connect your wallet to Beanswap](https://docs.bescscan.io/bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/connect-your-wallet-to-beanswap)
 
 ## Guides for using BeanSwap features
 
