@@ -2,7 +2,7 @@
 
 Token Swaps on BeanSwap are a simple way to trade one BESC20 token for another via automated liquidity pools, and also with market makers when trading BESC20.
 
-![](<../../../../.gitbook/assets/Screenshot (3) (1).png>)
+![](<../../../../.gitbook/assets/Screenshot (3).png>)
 
 When you make a token swap (trade) on the exchange you will pay a **0.25% trading fee**, which is broken down as follows:
 
