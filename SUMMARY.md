@@ -21,11 +21,6 @@
     * [Besc Assembly](general/learn-about-the-fuse-platform/fuse-governance-and-development/fuse-assembly.md)
     * [Besc Improvement Proposals (FIPs)](general/learn-about-the-fuse-platform/fuse-governance-and-development/fips.md)
 * [Besc for Business](general/fuse-for-business.md)
-* [Things you can do on Besc](general/things-you-can-do-on-fuse/README.md)
-  * [Interacting with the Besc Blockchain](general/things-you-can-do-on-fuse/interacting-with-the-besc-blockchain.md)
-  * [Besc Ecosystem](general/things-you-can-do-on-fuse/fuse-ecosystem.md)
-  * [Community](general/things-you-can-do-on-fuse/community.md)
-  * [Grants and Bounties](general/things-you-can-do-on-fuse/grants-and-bounties.md)
 * [Besc Mobile Infrastructure Use Cases](general/use-cases.md)
 
 ## Developers <a href="#general" id="general"></a>

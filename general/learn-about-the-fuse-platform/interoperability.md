@@ -13,7 +13,7 @@ Hence, interoperability solutions enabling transfers between Besc and other bloc
 
 The Besc team has been making considerable progress in getting Besc added by the leading operators. Currently the Besc blockchain is connected to other blockchains via the following multichain bridges and value transfer protocols:
 
-1\) The FuseFi bridge.
+1\) The Besc bridge.
 
 2\) The Elk Finance value transfer protool.
 

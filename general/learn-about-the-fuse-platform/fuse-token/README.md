@@ -18,9 +18,9 @@ The BESC token is the native currency of the Besc blockchain and platform, just 
 
 BESC is available for purchase on a number of centralized (CEX) and decentralized DEX exchanges.
 
-**Centralized exchanges**: Gate.io, Huobi Global, MEXC Global, AscendEX, Bimart, Bittrex Global
+**Centralized exchanges**: Loading
 
-**DEXes:** Uniswap V2 and V3 (Ethereum), PancakeSwap (Binance Smart Chain), Quickswap (Polygon), Voltage DEX (Besc), Sushiswap (Besc), 1inch (Ethereum), KyberSwap (Ethereum), Loopring (Ethereum).
+**DEXes:**  PancakeSwap, [BeanSwap](https://beanswap.finance)
 
 The best information about the BESC trading volumes and prices on various exchanges can be found on the BeanTools "Markets" page for the token.
 

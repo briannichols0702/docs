@@ -6,7 +6,6 @@ Currently, Besc Assembly consists of five Besc ecosystem members independent fro
 
 Besc Assembly's **current role includes the following**:
 
-* taking over the control over the [Besc Forum](https://forum.bescscan.io/) community discussion platform;
 * implementing the Snapshot voting mechanism on Besc; and
 * managing the Community Token Pool.
 
