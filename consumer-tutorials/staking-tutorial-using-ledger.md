@@ -39,9 +39,7 @@ _This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethe
 **Step 6:** Click on **“Contract”** and then click on Interact with contract and
 
 1. Enter the consensus contract address **0xc6119816bB72c980d99861FeF89F6ceDe5D362A5**
-2. Copy the consensus ABI from below link
 
-[https://raw.githubusercontent.com/PrimalDev/Besc/master/abis/Consensus\_abi.json](https://raw.githubusercontent.com/PrimalDev/Besc/master/abis/Consensus_abi.json)
 
 Click on **“Continue”**.
 
