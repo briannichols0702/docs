@@ -211,36 +211,9 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 
 You've run out of allowance of your LP token allowance to the MasterChef contract.
 
-**Use token approval manager like unrekt or BscScan to**&#x20;
+**Use token approval manager like unrekt or BescScan** &#x20;
 
-## **Issues with Syrup Pools**
-
-### BEP20: burn amount exceeds balance
-
-> Fail with error 'BEP20: burn amount exceeds balance'
-
-You don't have enough SYRUP in your wallet to unstake from the CAKE-CAKE pool.
-
-**Get at least as much SYRUP as the amount of CAKE that you’re trying to unstake.**
-
-1. Buy SYRUP on the exchange. If you want to unstake 100 CAKE, you need at least 100 SYRUP.
-2. Try unstaking again.
-
-If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
-
-1. Go to: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
-2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
-3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
-
-This will unstake your staked tokens and lose any uncollected CAKE yield.
-
-{% hint style="warning" %}
-**This will lose any yield that you haven’t harvested yet.**
-{% endhint %}
-
-To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake CAKE Earn CAKE” pool.
-
-This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to CAKE when you stake in the CAKE-CAKE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking (unstaking your CAKE from the pool), so if you don't have enough, you can't unstake from the pool.
+##
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
 
@@ -286,20 +259,20 @@ This happens when you set a limit on your spend allowance when you first approve
 
 ### BEP20: transfer amount exceeds balance
 
-> Fail with error 'BEP20: transfer amount exceeds balance'
+> Fail with error 'BESC20: transfer amount exceeds balance'
 
-You're probably trying to unstake from a Syrup Pool with low rewards in it. Solution below.
+You're probably trying to unstake from a Pool with low rewards in it. Solution below.
 
 If not, you may be trying to send tokens that you don't have in your wallet (for example, trying to send a token that is already assigned to a pending transaction). In this case, just make sure you have the tokens you're trying to use.
 
 {% tabs %}
 {% tab title="Solution" %}
-Firstly,[ let the team know](broken-reference) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
+Firstly,[ let the team know](https://t.me/beanecosystem) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
 
 You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
 1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
-2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) and in the search bar, enter the contract address.
+2. Go to [https://bescscan.io/](https://bescscan.io) and in the search bar, enter the contract address.
 3. Select **Write Contract.**
 4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 5. In section **“3. emergencyWithdraw”,** and click “Write”.
@@ -309,10 +282,6 @@ This will unstake your staked tokens and lose any uncollected yield.
 {% hint style="warning" %}
 **This will lose any yield that you haven’t harvested yet.**
 {% endhint %}
-{% endtab %}
-
-{% tab title="Reason" %}
-This error tends to appear when you're trying to unstake from an old Syrup Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
 {% endtab %}
 {% endtabs %}
 
@@ -331,7 +300,7 @@ This happens when you try to connect via a browser extension like MetaMask or Bi
 
 {% tabs %}
 {% tab title="Solution" %}
-Install the official browser extension to connect, or read our guide on [how to connect a wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide).
+Install the official browser extension to connect, or read our guide on [how to connect a wallet to BeanSwap](https://docs.bescscan.io/bean-swap-dex/get-started/create-wallet/get-besc-coin/using-beanswap-without-centralized-exchanges/connect-your-wallet-to-beanswap).
 {% endtab %}
 {% endtabs %}
 
