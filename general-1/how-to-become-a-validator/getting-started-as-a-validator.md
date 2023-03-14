@@ -13,4 +13,4 @@ To quickly become a validator, follow this steps:
 
 Read more at: [https://github.com/briannichols0702/BESCCoinNetwork/tree/master/node-example](https://github.com/briannichols0702/BESCCoinNetwork/tree/master/node-example)
 
-For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/). Good luck and happy validating!
+For live support, contact us on [Telegram](https://t.me/beanecosystem) or [twitter](https://twitter.com/BeanEcoChain). Good luck and happy validating!
