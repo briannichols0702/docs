@@ -34,7 +34,7 @@ This contract is responsible for generating and distributing block rewards to th
 
 Another role of this contract is to call the snapshot/cycle logic on the Consensus contract
 
-This contract is based on `BlockReward` [described in Parity Wiki](https://wiki.parity.io/Block-Reward-Contract).
+This contract is based on `BlockReward.
 
 ## [Voting - 0x59F8F812bdEd2eaCFDbD27D55c01FCfC2E349E8b](https://bescscan.io/address/0x59F8F812bdEd2eaCFDbD27D55c01FCfC2E349E8b)
 
