@@ -19,11 +19,11 @@ The Besc ecosystem has seen massive growth since the launch of the platform in 2
 
 4\) **Centralized and decentralized exchanges** (on other chains) where Besc's native BESC token and other Besc-powered assets are traded. The most prominent CEXs are [Gate.io](https://gate.io), [Huobi Global](https://huobi.com) and [MEXC](https://mexc.com). Notable DEXs on other chains include [Uniswap](https://uniswap) (V2 and V3), [PancakeSwap](https://pancakeswap.finance) and [QuickSwap](https://quickswap.exchange).&#x20;
 
-5\) **DeFi tools**. The DeFi space on Besc is led by the community-governed [Voltage Finance](https://voltage.finance) (formerly FuseFi) platform. Other major DeFi platforms include [Sushi](https://sushi.com), [Beefy Finance](https://beefy.finance) and [Elk Finance](https://elk.finance).
+5\) **DeFi tools**. The DeFi space on Besc is led by the community-governed platform. Other major DeFi platforms include [Sushi](https://sushi.com), [Beefy Finance](https://beefy.finance) and [Elk Finance](https://elk.finance).
 
 6\) **NFTs, metaverses and gaming**. The most prominent NFT projects on Besc include the [Artrific](https://artrific.io) and [tofuNFT](https://tofunft.com) marketplaces, [Cozy Cosmonauts](https://cozycosmonauts.com) and [Besc Foxes](https://fusefoxes.com). The first metaverse to soon be deployed on Besc is [Tollan Worlds](https://tollan.io).
 
-7\) **Wallets and dApp browsers**. These include, among others, [Besc Cash](https://fuse.cash), [MetaMask](https://metamask.io), [Brave Wallet](https://brave.com/wallet), [BitKeep](https://bitkeep.com), [Math Wallet](https://mathwallet.org).&#x20;
+7\) **Wallets and dApp browsers**. These include, among others, [MetaMask](https://metamask.io), [Brave Wallet](https://brave.com/wallet), [BitKeep](https://bitkeep.com), [Math Wallet](https://mathwallet.org).&#x20;
 
 8\) **Other tools, aggregators, trackers, bounties, etc**. Among these, the most noteworthy are [DappRadar](https://dappradar.com), [Dapp.com](https://dapp.com), [Staking Rewards](https://stakingrewards.com), [DeBank](https://debank.com), ImmuneFi.
 
@@ -31,7 +31,7 @@ The Besc ecosystem has seen massive growth since the launch of the platform in 2
 
 ### You can explore the Besc ecosystem in full by visiting the dedicated page on the Besc official website.&#x20;
 
-{% embed url="https://bescscan.io/ecosystem" %}
+{% embed url="https://besceco.finance" %}
 
 
 
