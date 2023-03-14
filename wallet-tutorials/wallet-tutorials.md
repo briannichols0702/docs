@@ -10,7 +10,7 @@ This guide has been prepared using Trust wallet version **1.15.5** on Android.
 
 **Step 1:** Open Trust wallet on your phone and you should see the interface as shown below. 
 
-![](../.gitbook/assets/0.jpeg)
+
 
 **Step 2:** Press the top corner button on the right hand side which will take you to the interface as shown in the below image. Scroll down to see **“Add Custom token”**.
 
