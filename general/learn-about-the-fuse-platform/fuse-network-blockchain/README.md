@@ -4,7 +4,7 @@
 
 Besc is the decentralized EVM-compatible public blockchain that powers the Besc platform and ecosystem. It is fully compatible with Ethereum meaning that any smart contract that can be deployed on the latter can also run on top of Besc.
 
-The Besc blockchain uses a variant of delegated Proof of Stake (dPoS) for achieving [consensus](https://docs.bescscan.io/general/fuse-network-blockchain/Besc-consensus). The consensus is secured by a significant number of independent validators, only one of which is run by the Besc core team.
+The Besc blockchain uses a variant of delegated Proof of Stake (dPoS) for achieving [consensus](https://docs.bescscan.io/general-1/fuse-network-blockchain/Besc-consensus). The consensus is secured by a significant number of independent validators, only one of which is run by the Besc core team.
 
 Validators are also responsible for the most important type of governance on Besc, namely, adopting the network protocol changes via [Besc Improvement Proposals](https://docs.bescscan.io/general/fips) (FIPs). 
 
