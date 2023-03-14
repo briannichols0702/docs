@@ -4,7 +4,6 @@
 
 **Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ)&#x20;
 
-**Besc Forum**: [https://forum.bescscan.io/](https://forum.bescscan.io/)
 
 ### Public Telegram groups
 
