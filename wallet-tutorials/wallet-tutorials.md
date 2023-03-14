@@ -27,8 +27,6 @@ Symbol - **BESC**
 
 Decimals - **18**
 
-![](../.gitbook/assets/3%20%281%29.jpeg)
-
 **Step 4:** You have added **BESC** successfully on your Trust wallet and now you should see **BESC** on your main page as shown below.
 
 ![](../.gitbook/assets/4-1.jpg)
@@ -37,9 +35,6 @@ Now let’s learn how to Send/Receive **BESC** on Trust wallet.
 
 **To receive BESC:** Once completing Steps 1-4, Press on **BESC token** in the main page of your wallet and you should see the Send/Receive button as shown below. Now click on **“Receive”** and your **BESC token** address \(Public key\) will appear to which you can send BESC. Once the transaction is confirmed on-chain the BESC balance will be shown.
 
-![](../.gitbook/assets/5-1.jpg)
-
-![](../.gitbook/assets/5-2.jpg)
 
 **To send BESC:** Press “**BESC token”** on the main page of your wallet and you will see **“Send/Receive”** button as shown below. Now click **“Send”** which will take you to the next page where you need to enter the **“Recipient Address”** to which you want to send **BESC** to and the **“Amount”** then click **“Continue”.** You can adjust the gas fees according to the Ethereum network gas prices and confirm the transaction.
 
