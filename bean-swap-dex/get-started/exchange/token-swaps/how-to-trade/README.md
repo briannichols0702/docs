@@ -12,7 +12,7 @@ Before you can trade, you will need a BESC compatible wallet.  You will also nee
 
 2\. Unlock your BeanEco Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet BeanSwap.
 
-![](<../../../../../.gitbook/assets/Screenshot (3).png>)
+![](<../../../../../.gitbook/assets/Screenshot (3) (1).png>)
 
 3\. Choose the token you want to trade from the dropdown menu in the "From" section. The default setting is BESC.
 
@@ -28,7 +28,7 @@ Your "From" currency amount will be estimated automatically. You can also type y
 
 5\. Check the details, and click the **Swap** button.
 
-![](<../../../../../.gitbook/assets/Screenshot (3).png>)
+![](<../../../../../.gitbook/assets/Screenshot (3) (1).png>)
 
 6\. A window with more details will appear. Check the details are correct.
 

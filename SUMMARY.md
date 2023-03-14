@@ -71,8 +71,8 @@
       * [Liquidity Pools](bean-swap-dex/get-started/exchange/liquidity-pools/README.md)
         * [How to Add/Remove Liquidity](bean-swap-dex/get-started/exchange/liquidity-pools/how-to-add-remove-liquidity.md)
 * [BESC Locker](besc-locker.md)
-  * [Simple Lock](besc-locker/simple-lock/README.md)
-    * [Page 1](besc-locker/simple-lock/page-1.md)
+  * [Simple Lock](besc-locker/simple-lock.md)
+  * [Lock Liquidity On Besc Locker](besc-locker/lock-liquidity-on-besc-locker.md)
 
 ## Links
 
