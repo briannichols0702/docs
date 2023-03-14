@@ -9,7 +9,7 @@ The more communities and users conducting transactions, the more validators will
 
 ### What it means to be a validator?
 
-[Any entity that is holding the Besc token can run a node](broken-reference) that approves transaction in the network and in doing so receive rewards in the form of Besc token (BESC).
+Any entity that is holding the Besc token can run a node that approves transaction in the network and in doing so receive rewards in the form of Besc token (BESC).
 
 Validators are running special software that holds a copy of the Besc blockchain and validating transactions in the network.
 
