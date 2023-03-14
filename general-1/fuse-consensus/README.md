@@ -23,7 +23,7 @@ Stake amount for a validator is the sum of staked and delegated amount to it's a
 This contract is based on `non-reporting ValidatorSet` [described in Parity Wiki](https://wiki.parity.io/Validator-Set.html#non-reporting-contract).
 
 {% hint style="info" %}
-minimum stake amount = 100,000 Besc token
+minimum stake amount = 10,000 Besc token
 
 cycle duration blocks = 34560 (approximately 2 days)
 {% endhint %}
