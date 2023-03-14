@@ -39,16 +39,10 @@ Validators are the guardians of the network and are in charge of not only mainta
     Any service provider can become a stakeholder in the network and already today we are seeing the potential of cross-blockchain transactions uniting business processes between different entities using cryptography and without middlemen.
 * **Community operators on Besc** - Community operators are the foremost stakeholders in the network and can upgrade themselves to a validator and thus provide better access to their clients.&#x20;
 
-### Who can become a validator (Technical requirements)
-
-* See [_Running a validator node_](broken-reference)__
-
-### Who shouldn’t become a validator (and what can he still do)
-
 * **Non technical users** - Running a node requires technical background in blockchain and web hosting. It’s not very complicated but also not trivial or basic.
 * **Simple holders** - We are looking for validators who are invested in the future of the network and are looking to take an active part. This is what the DPoS (Delegated Proof of Stake) mechanism was born to do.
 
-[You can delegate you Besc token to a validator](broken-reference) of your choosing. Not everybody that wants to earn rewards need to be a validator! Any token holder can delegate their Besc token to a validator to earn rewards through the validator.
+You can delegate you Besc token to a validator of your choosing. Not everybody that wants to earn rewards need to be a validator! Any token holder can delegate their Besc token to a validator to earn rewards through the validator.
 
 ### How to become a validator?
 
