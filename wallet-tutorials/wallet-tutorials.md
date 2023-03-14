@@ -29,7 +29,7 @@ Decimals - **18**
 
 **Step 4:** You have added **BESC** successfully on your Trust wallet and now you should see **BESC** on your main page as shown below.
 
-![](../.gitbook/assets/4-1.jpg)
+
 
 Now let’s learn how to Send/Receive **BESC** on Trust wallet.
 
