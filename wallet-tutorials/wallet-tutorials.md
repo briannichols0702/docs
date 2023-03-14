@@ -14,9 +14,6 @@ This guide has been prepared using Trust wallet version **1.15.5** on Android.
 
 **Step 2:** Press the top corner button on the right hand side which will take you to the interface as shown in the below image. Scroll down to see **“Add Custom token”**.
 
-![](../.gitbook/assets/2-1.jpg)
-
-![](../.gitbook/assets/2-2.jpg)
 
 **Step 3:** Make sure the network is selected as **“BSC or BESC”** and enter the BESC contract details as mentioned below.
 
@@ -46,9 +43,6 @@ Now let’s learn how to Send/Receive **BESC** on Trust wallet.
 
 **To send BESC:** Press “**BESC token”** on the main page of your wallet and you will see **“Send/Receive”** button as shown below. Now click **“Send”** which will take you to the next page where you need to enter the **“Recipient Address”** to which you want to send **BESC** to and the **“Amount”** then click **“Continue”.** You can adjust the gas fees according to the Ethereum network gas prices and confirm the transaction.
 
-![](../.gitbook/assets/6-1.jpg)
-
-![](../.gitbook/assets/6-2.jpg)
 
 We hope this tutorial helped you to use MEW and send/receive BESC tokens. Until next time friends!
 
