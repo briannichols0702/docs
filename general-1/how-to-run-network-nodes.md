@@ -43,8 +43,6 @@ reseal_on_txs = "none"
 
 5.  Stake
 
-    Stake
-
     To stake BESC coin, all you should do is sending your BESC coin to the BESC Consensus contract address over the BESC network from the validator address. The BESC Consensus contract address: 0xc6119816bB72c980d99861FeF89F6ceDe5D362A5 The easiest way to do so, is to import your private key or key-store file to your favourite wallet (for example Metamask), switch network to BESC and send the BESC coin to the Consensus contract address.
 
     You can find your key-store (containing your private key) and the password for the created account in: /BESC/nodes/validator/keys/BESC/UTC--xxxx /BESC/nodes/validator/node.pwd

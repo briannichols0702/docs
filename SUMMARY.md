@@ -43,7 +43,6 @@
 * [Resources & Tools](general-1/resources-and-tools/README.md)
   * [TheGraph](general-1/resources-and-tools/thegraph.md)
 * [Important smart contracts](general-1/important-smart-contracts/README.md)
-  * [Major Deployed Contracts](general-1/important-smart-contracts/major-deployed-contracts.md)
   * [Bridges](general-1/important-smart-contracts/bridges/README.md)
     * [BSC ↔ Besc BNB](general-1/important-smart-contracts/bridges/bsc-besc-bnb.md)
 * [How to become a validator](general-1/how-to-become-a-validator/README.md)
