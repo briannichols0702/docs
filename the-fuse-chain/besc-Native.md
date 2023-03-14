@@ -26,11 +26,8 @@ The native Besc token is represented via an ERC-20 token on Ethereum mainnet,BEP
 * The fee cost per transaction in Besc will be adjusted to be a maximum of 1 cent US dollar once the blocks start to fill up. At this stage simple transfer transactions will be moved off-chain.
 
 {% hint style="info" %}
-* Watch our token on [Etherscan](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)
-* Watch our token on [BSCscan](https://bscscan.com/token/0x5857c96dae9cf8511b08cb07f85753c472d36ea3)
+* Watch our token on [BSCscan](https://bscscan.com/token/0x5e3344216adb2c19caa7f3fe90078e7c4ac71bb6)
 * Check out the [Besc explorer](https://bescscan.io/)
-* [Get Besc token](https://uniswap.exchange/swap/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d) - [Uniswap](https://uniswap.exchange/swap?outputCurrency=0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d)
-{% endhint %}
 
 \_\_
 
