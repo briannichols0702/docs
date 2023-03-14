@@ -55,6 +55,11 @@
 * [How to become a validator](general-1/how-to-become-a-validator/README.md)
   * [Getting started as a validator](general-1/how-to-become-a-validator/getting-started-as-a-validator.md)
 
+***
+
+* [Bean Swap Dex](bean-swap-dex.md)
+* [BESC Locker](besc-locker.md)
+
 ## Links
 
 * [Facebook](https://www.facebook.com/profile.php?id=100089045946982\&mibextid=ZbWKwL)
