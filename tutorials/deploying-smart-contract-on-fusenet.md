@@ -2,7 +2,7 @@
 description: Steps on deploying a smart contract on Besc through Remix.
 ---
 
-# Deploying smart contract on Fusenet
+# Deploying smart contract on Besc
 
 Besc is an EVM compatible network, every tool for Ethereum can be used for the Besc network too.
 
