@@ -9,7 +9,7 @@ The blockchain is designed to ensure fast block confirmation times and a low cos
 The following information will help you discover and connect to the Besc blockchain:   
 
 * Network name: **Besc**
-* ChanId: **39656**
+* ChanId: **535037**
 * Gas price: **1 gwei**
 * RPC
   * official RPC: [https://mainnet-rpc.bescscan.io/](https://mainnet-rpc.bescscan.io/)
