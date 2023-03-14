@@ -5,7 +5,7 @@ The BESC token is the native currency of the Besc blockchain and platform, just 
 ## BESC utility:
 
 * **Transaction fees** Being the native currency on the Besc blockchain, BESC is required to pay fees to the network in order to approve transactions.
-* **Validation** Token holders can stake Besc to become a validator. The minimal staking requirement is 10K. The network is growing, currently there are 60 validators. ([https://status.bescscan.io/](https://status.bescscan.io/))
+* **Validation** Token holders can stake Besc to become a validator. The minimal staking requirement is 10K. The network is growing, currently there are 1 validators. ([https://status.bescscan.io/](https://status.bescscan.io/))
 * **Voting** Validators vote on protocol changes with their staked BESC. Which means validators with higher amounts of Besc staked can have a bigger vote on network upgrades and governance changes (until phase 2 where delegation is activated)
 * **Staking (for delegators)** Any BESC holder can choose one or more validators to delegate any amount of BESC they wish. They receive a share of the Besc block rewards proportionate to the share of their stake in the total stake, minus the minimum 15% fee paid to the validator(s).
 * **Payments** As BESC is the native currency on Besc, sending it does not require interactions with smart contracts. Thus, BESC transfers are potentially faster and less costly in terms of transaction fees.

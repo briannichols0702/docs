@@ -30,7 +30,7 @@ cycle duration blocks = 34560 (approximately 2 days)
 
 ## [Block Reward - 0x8AE455f5e77F2fF26F8aD69cf8464AA12aaAeAd8](https://bescscan.io/address/0x8AE455f5e77F2fF26F8aD69cf8464AA12aaAeAd8)
 
-This contract is responsible for generating and distributing block rewards to the network validators according to the network specs (5% yearly inflation).
+This contract is responsible for generating and distributing block rewards to the network validators according to the network specs (2% yearly inflation).
 
 Another role of this contract is to call the snapshot/cycle logic on the Consensus contract
 

@@ -1,6 +1,8 @@
 # Besc Mainnet
 
-BESC CHAIN MAINNET Chain ID: 535037 - 0x829FD&#x20;
+## BESC CHAIN MAINNET&#x20;
+
+Chain ID: **535037** - 0x829FD&#x20;
 
 RPC : https://mainnet-rpc.bescscan.io\
 Graph Node : https://thegraph.bescscan.io
@@ -9,7 +11,7 @@ Explorer : https://bescscan.io&#x20;
 
 Staking : https://staking.bescscan.io\
 Status : https://status.bescscan.io\
-BOT API : https://bot.bescscan.io&#x20;
+Bot API : https://bot.bescscan.io&#x20;
 
 Docs : https://docs.bescscan.io
 

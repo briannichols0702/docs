@@ -1,6 +1,6 @@
 # Stake, Delegate and Withdraw
 
-The basic requirement to become a Besc chain validator is to have a stake amount of at least 100,000 Besc tokens. The stake amount is the sum of staked and delegated Besc tokens of the address. This guide walks trough the process of using MEW (MyEtherWallet.com) in the process of using Besc network.**Roadmap** - Those functionalities will be built into our Studio and will not require any technical knowledge in the future.
+The basic requirement to become a Besc chain validator is to have a stake amount of at least 10,000 Besc tokens. The stake amount is the sum of staked and delegated Besc tokens of the address. This guide walks trough the process of using MEW (MyEtherWallet.com) in the process of using Besc network.**Roadmap** - Those functionalities will be built into our Studio and will not require any technical knowledge in the future.
 
 ## Stake <a href="#stake" id="stake"></a>
 
