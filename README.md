@@ -18,5 +18,5 @@ The Besc documentation is separated into three major parts:
 
 {% hint style="info" %}
 Join our [Telegram group](https://t.me/beanecosystem)\
-Or say hello at: hello@bescscan.io
+Or say hello at: support@bescscan.io
 {% endhint %}
