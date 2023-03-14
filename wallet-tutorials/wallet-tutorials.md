@@ -18,11 +18,11 @@ This guide has been prepared using Trust wallet version **1.15.5** on Android.
 
 ![](../.gitbook/assets/2-2.jpg)
 
-**Step 3:** Make sure the network is selected as **“Ethereum”** and enter the BESC contract details as mentioned below.
+**Step 3:** Make sure the network is selected as **“BSC or BESC”** and enter the BESC contract details as mentioned below.
 
-**BESC**:
+**Wrapped BESC**:
 
-Contract address - **0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d**
+Contract address - **0x5E3344216aDb2C19caa7F3Fe90078E7C4ac71bb6**
 
 Name - **BESC token**
 
