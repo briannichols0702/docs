@@ -4,7 +4,7 @@ Besc token is required to be paid to the network to approve transactions. The Be
 
 Besc holders can lock it and delegate it to a validator in order to protect against inflation and get rewarded with Besc tokens. The holders can select their favorite validator and validators are selected based on having the most Besc tokens staked.
 
-The native Besc token is represented via an ERC-20 token on Ethereum mainnet,BEP-20 token on BSC and can be moved between the Besc chain, BSC and Ethereum using the bridge.
+The native Besc token is represented via an ,BEP-20 token on BSC and can be moved between the Besc chain, BSC using the bridge.
 
 ## Besc token utility:
 
