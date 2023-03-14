@@ -29,7 +29,7 @@ You can also see your share of the liquidity pool based on the amount of BESC yo
 
 Click on **“Approve USDT”** and confirm the transaction through your wallet.
 
-\(Note: If this is the first time you are providing liquidity on Fuseswap using the above pairs you will have to approve the spend transaction.\)
+\(Note: If this is the first time you are providing liquidity on Beanswap using the above pairs you will have to approve the spend transaction.\)
 
 Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.bescscan.io](https://bescscan.io/) on your wallet address.
 
