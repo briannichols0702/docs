@@ -1,2 +1,0 @@
-# Besc Testnet Spark
-

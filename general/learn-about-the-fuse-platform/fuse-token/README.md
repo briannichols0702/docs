@@ -1,6 +1,6 @@
 # Besc Token (BESC)
 
-The BESC token is the native currency of the Besc blockchain and platform, just like ETH on Ethereum.&#x20;
+The BESC token is the native currency of the Besc blockchain and platform, just like ETH on Ethereum.
 
 ## BESC utility:
 
@@ -10,7 +10,7 @@ The BESC token is the native currency of the Besc blockchain and platform, just 
 * **Staking (for delegators)** Any BESC holder can choose one or more validators to delegate any amount of BESC they wish. They receive a share of the Besc block rewards proportionate to the share of their stake in the total stake, minus the minimum 15% fee paid to the validator(s).
 * **Payments** As BESC is the native currency on Besc, sending it does not require interactions with smart contracts. Thus, BESC transfers are potentially faster and less costly in terms of transaction fees.
 
-**IMPORTANT**: Merely possessing any amount of BESC tokens does not endow holders with any rights to participate in the governance of the Besc platform or any revenue streams related to its real-world performance.&#x20;
+**IMPORTANT**: Merely possessing any amount of BESC tokens does not endow holders with any rights to participate in the governance of the Besc platform or any revenue streams related to its real-world performance.
 
 ## Obtaining BESC
 
@@ -22,20 +22,20 @@ BESC is available for purchase on a number of centralized (CEX) and decentralize
 
 **DEXes:** Uniswap V2 and V3 (Ethereum), PancakeSwap (Binance Smart Chain), Quickswap (Polygon), Voltage DEX (Besc), Sushiswap (Besc), 1inch (Ethereum), KyberSwap (Ethereum), Loopring (Ethereum).
 
-The best information about the BESC trading volumes and prices on various exchanges can be found on the Coingecko "Markets" [page](https://www.coingecko.com/en/coins/fuse#markets) for the token. &#x20;
+The best information about the BESC trading volumes and prices on various exchanges can be found on the BeanTools "Markets" page for the token.
 
-A convenient current way of purchasing BESC straight from one's bank account is through using the [Besc Cash](https://fuse.cash) wallet to deposit Besc Dollars, and then swapping those to BESC via the in-app integration with Voltage DEX.
+
 
 ### Where to Farm
 
-At the moment, the BESC token is sometimes used by the project team to power liquidity rewards (yield farming) programs to boost liquidity on DEXes and the participation in the [Besc Lending Network](./#fuse-utility).
+At the moment, the BESC token is sometimes used by the project team to power liquidity rewards (yield farming) programs to boost liquidity on DEXes and the participation in the BeanSwap Dapp.
 
-The ongoing liquidity rewards programs on DEXes can be discovered [here](https://app.voltage.finance/index.html#/farm/39656).
+The ongoing liquidity rewards programs on DEXes can be discovered [here](https://beanswap.finance).
 
 ### Other ways of obtaining BESC
 
-From time to time, the Besc team uses BESC to pay rewards to the members of the community for various forms of participation and community engagement. The best way to stay up-to-date about these opportunities is to follow Besc's [social channels](https://docs.bescscan.io/general/community).
+From time to time, the Besc team uses BESC to pay rewards to the members of the community for various forms of participation and community engagement. The best way to stay up-to-date about these opportunities is to follow Besc's [social channels](https://t.me/beanecosystem).
 
-The BESC token is also used to power Besc grants and bounties. Please consult the [Grants and Bounties](https://docs.bescscan.io/general/things-you-can-do-on-fuse/grants-and-bounties) section for more details.
+The BESC token is also used to power Besc grants and bounties. Please consult the [Grants and Bounties](https://besscan.io/support) section for more details.
 
 \_\_

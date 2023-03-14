@@ -2,27 +2,17 @@
 
 ## Exchanges
 
-### Centralized
-
-[Gate.io](https://gate.io)
-
-[BitMart](https://bitmart.com)
-
-[Liquid Global](https://liquid.com)
-
-The best data on the active BESC trading pairs is available [here](https://www.coingecko.com/en/coins/fuse#markets).
+###
 
 ### DEXes
 
-Uniswap V2
-
 Pancake Swap V2
 
-Loopring
+BeanSwap
 
 KyberSwap
 
-1inch&#x20;
+1inch
 
 DoDo
 
@@ -34,11 +24,9 @@ DoDo
 
 ## Wallets
 
-[Besc Cash](https://fuse.c)
-
 Metamask
 
-Metamask Mobile&#x20;
+Metamask Mobile
 
 [Ledger](https://ledger)
 
@@ -48,12 +36,3 @@ Metamask Mobile&#x20;
 
 Trust Wallet (Binance Smart Chain)
 
-## DeFi Tools
-
-[Besc Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md#exchanges)
-
-[Besc Rewards](https://rewards.bescscan.io)
-
-[Besc Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
-
-[Staking Rewards](https://www.stakingrewards.com/)

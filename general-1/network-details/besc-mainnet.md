@@ -1,29 +1,17 @@
-# Discovering the Network
+# Besc Mainnet
 
-The following information will help you discover and connect to the Besc blockchain:
+BESC CHAIN MAINNET Chain ID: 535037 - 0x829FD&#x20;
 
-* Network name: **BESC**
-* ChanId: **535037**
-* Gas price: **1.500000007 gwei**
-* official RPC: [https://mainnet-rpc.bescscan.io/](https://mainnet-rpc.bescscan.io/)
-* Explorer: [http://bescscan.io/](http://bescscan.io/)
-
-BESC CHAIN MAINNET Chain ID: 535037 - 0x829FD
-
-&#x20;RPC : https://mainnet-rpc.bescscan.io
-
-\
+RPC : https://mainnet-rpc.bescscan.io\
 Graph Node : https://thegraph.bescscan.io
 
 Explorer : https://bescscan.io&#x20;
 
 Staking : https://staking.bescscan.io\
-
-
 Status : https://status.bescscan.io\
+BOT API : https://bot.bescscan.io&#x20;
 
-
-BOT API : https://bot.bescscan.io Docs : https://docs.bescscan.io
+Docs : https://docs.bescscan.io
 
 TESTNET Chain ID: 892272 - 0xD9D70&#x20;
 
