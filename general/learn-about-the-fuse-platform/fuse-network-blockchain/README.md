@@ -1,4 +1,4 @@
-# The Besc Blockchain
+# The BESC Blockchain
 
 ## Network Overview and Key Metrics
 
