@@ -5,7 +5,7 @@ description: >-
   until the lock period has ended.
 ---
 
-# Lock Liquidity On Besc Locker
+# Lock Liquidity On BESC Locker
 
 Using liquidity locks is a powerful way to increase the credibility and trust of your project in the eyes of the public. By demonstrating a commitment to long-term holding and alignment with your community, you can build stronger relationships and attract more support for your project.&#x20;
 
@@ -15,7 +15,7 @@ Additionally, _liquidLocks_ open up new use cases for your project, such as fund
 * 2: Navigate to the "Liquidity Locks" page on the BESCLOCKER dashboard.
 * 3: Select the LP token that you want to lock by pasting the LP contract address.
 * 4: Click the "Create New Liquidity Lock" button.
-* 5: BescLocker will recognise the LP token, and a dropdown labeled "Project token" will appear, ensure you select your project token, as opposed to the other asset in the liquidity pool, so that your lock will appear publicly in your project's Investor Dashboard.
+* 5: BESCLocker will recognize the LP token, and a dropdown labeled "Project token" will appear, ensure you select your project token, as opposed to the other asset in the liquidity pool, so that your lock will appear publicly in your project's Investor Dashboard.
 * 6: Select the end date for the lock period.
 * 7: Enter the amount of LP tokens that you want to lock.
 * 8: Select a lock name and symbol, this is important as they are displayed publicly and cannot be changed later. These names will also be used for the liquidLock token that will wrap your LP.
