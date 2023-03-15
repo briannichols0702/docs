@@ -1,6 +1,6 @@
 # Vote
 
-Besc chain functionality can be change by voting on the contracts implementations. New implementations can be deployed, and opened to vote by validators for others to decide on whether to accept/reject the changes.
+BESC chain functionality can be change by voting on the contract's implementations. New implementations can be deployed and opened to vote by validators for others to decide on whether to accept/reject the changes.
 
 ## Open a new ballot
 
@@ -39,8 +39,6 @@ Voting is done by calling the \`vote\` function, which receives two params:
 * choice - 1 is accept, 2 is reject
 
 ![vote](../../.gitbook/assets/image.png)
-
-
 
 Some other useful functions on the [voting contract](https://bescscan.io/address/0x59F8F812bdEd2eaCFDbD27D55c01FCfC2E349E8b) are:
 

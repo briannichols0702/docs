@@ -1,6 +1,6 @@
-# Besc Overview: vision, strategy and platform components
+# BESC Overview: vision, strategy and platform components
 
-Besc is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto payments and decentralized finance (DeFi).
+BESC is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto payments and decentralized finance (DeFi).
 
 The project was launched in 2023.
 
@@ -28,8 +28,8 @@ This is achieved by providing clients with **convenient, mobile-first tools for 
 
 ### Platform Components
 
-The Besc platform has three main components:
+The BESC platform has three main components:
 
-1\) **The Besc blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the Besc platform and ecosystem.
+1\) **The BESC blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the BESC platform and ecosystem.
 
 2\) **A set of reference decentralized finance (DeFi) products and tools**. The goal of these is to pave the way for the initial adoption of the platform.&#x20;

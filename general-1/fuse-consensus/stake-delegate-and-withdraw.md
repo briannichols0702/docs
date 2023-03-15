@@ -6,18 +6,18 @@ The basic requirement to become a Besc chain validator is to have a stake amount
 
 There are two options to stake (both should be called from the address which would be the validator)
 
-1. 1.Send Besc tokens to the [consensus contract](https://bescscan.io/address/0xc6119816bB72c980d99861FeF89F6ceDe5D362A5) - 0xc6119816bB72c980d99861FeF89F6ceDe5D362A5 on the fuse network.
-2. 2.Call the \`stake\` function on the [consensus contract](https://bescscan.io/address/0xc6119816bB72c980d99861FeF89F6ceDe5D362A5) - 0xc6119816bB72c980d99861FeF89F6ceDe5D362A5 on the fuse network.
+1. 1.Send BESC tokens to the [consensus contract](https://bescscan.io/address/0xc6119816bB72c980d99861FeF89F6ceDe5D362A5) - 0xc6119816bB72c980d99861FeF89F6ceDe5D362A5 on the BESC network.
+2. 2.Call the \`stake\` function on the [consensus contract](https://bescscan.io/address/0xc6119816bB72c980d99861FeF89F6ceDe5D362A5) - 0xc6119816bB72c980d99861FeF89F6ceDe5D362A5 on the BESC network.
 
 ## Delegate <a href="#delegate" id="delegate"></a>
 
-Besc token holders who don't want to run a node by themselves but still wish to participate in governing the network can delegate any amount to one of the validators.Delegating is done by calling the \`delegate\` function on the [consensus contract](https://bescscan.io/address/0xc6119816bB72c980d99861FeF89F6ceDe5D362A5) with the validator address as data (see screenshot from MEW).
+BESC token holders who don't want to run a node by themselves but still wish to participate in governing the network can delegate any amount to one of the validators. Delegating is done by calling the \`delegate\` function on the [consensus contract](https://bescscan.io/address/0xc6119816bB72c980d99861FeF89F6ceDe5D362A5) with the validator address as data (see screenshot from MEW).
 
 ![delegate](https://3886961007-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MQROvzQPC4eD8u5AQhv%2Fuploads%2FfW2bi43f3TMgmwzi7wSZ%2Fimage.png?alt=media\&token=f30eb8a1-ff40-4f1e-9f73-89466ea2c83e)
 
 ## Withdraw <a href="#withdraw" id="withdraw"></a>
 
-Both stakers and validators can withdraw their Besc tokens, up to the staked/delegated amount, at any time. The withdrawn amount will be deducted from the validator stake amount, and if the stake amount becomes below the minimum stake amount - the validator will be removed from the Besc chain validators list.There are two options to withdraw:
+Both stakers and validators can withdraw their BESC tokens, up to the staked/delegated amount, at any time. The withdrawn amount will be deducted from the validator stake amount, and if the stake amount becomes below the minimum stake amount - the validator will be removed from the BESC chain validators list.There are two options to withdraw:
 
 1. 1.Call the \`withdraw\` function on the [consensus contract](https://bescscan.io/address/0xc6119816bB72c980d99861FeF89F6ceDe5D362A5) with one parameter - the amount to withdraw. This call is for stakers, and will reduce the stake amount of the sender address.
 2. 2.Call the \`withdraw\` function on the [consensus contract](https://bescscan.io/address/0xc6119816bB72c980d99861FeF89F6ceDe5D362A5) with two parameters - validator address and amount to withdraw. This call is for both stakers (who can use their own address as the parameter) and for delegators to withdraw their delegated stake on a specific validator.

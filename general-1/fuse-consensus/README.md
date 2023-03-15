@@ -1,29 +1,29 @@
-# Besc Consensus
+# BESC Consensus
 
-Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. Besc network is using a Delegated Proof of Stake DPoS consensus model. DPoS is a variation of Proof of Stake consensus. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
+Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. BESC network is using a Delegated Proof of Stake DPOS consensus model. DPOS is a variation of Proof of Stake consensus. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
 
 ![](<../../.gitbook/assets/image (7).png>)
 
-Consensus contract is used to manage the list of the network validators and delegators
+Consensus contract is used to manage the list of the network validators and delegators.
 
 BlockReward contract is calculates the reward amount that validators and delegators will receive on each block validation. The reward size is proportional to validator's stake.
 
 With Voting contract validators are vote on various changes on these 3 base level contracts. All those contracts are proxied with implementation that handles the logic. The implementations can be changed only by the Voting process.
 
-The bridge is used to transfer the Besc native token between Besc and Ethereum networks.
+The bridge is used to transfer the BESC native token between BESC and BSC networks.
 
 ## [Consensus - 0xc6119816bB72c980d99861FeF89F6ceDe5D362A5](https://bescscan.io/address/0xc6119816bB72c980d99861FeF89F6ceDe5D362A5)
 
-This contract is responsible for handling the network DPos consensus. The contract stores the current validator set and chooses a new validator set at the end of each cycle. The logic for updating the validator set is to select a random snapshot from the snapshots taken during the cycle.
+This contract is responsible for handling the network DPOS consensus. The contract stores the current validator set and chooses a new validator set at the end of each cycle. The logic for updating the validator set is to select a random snapshot from the snapshots taken during the cycle.
 
-The snapshots are taken of pending validators, who are those which staked more than the minimum stake needed to become a network validator. Therefore the contract is also responsible for staking, delegating and withdrawing those funds.
+The snapshots are taken of pending validators, who are those which staked more than the minimum stake needed to become a network validator. Therefore, the contract is also responsible for staking, delegating and withdrawing those funds.
 
-Stake amount for a validator is the sum of staked and delegated amount to it's address.
+Stake amount for a validator is the sum of staked and delegated amount to its address.
 
-This contract is based on \`non-reporting ValidatorSets.
+This contract is based on \`non-reporting Validator Sets.
 
 {% hint style="info" %}
-minimum stake amount = 10,000 Besc token
+minimum stake amount = 10,000 BESC token
 
 cycle duration blocks = 34560 (approximately 2 days)
 {% endhint %}

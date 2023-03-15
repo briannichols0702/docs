@@ -8,15 +8,15 @@ description: >-
 
 ## Deploying your own subgraph
 
-TheGraph, a decentralized protocol for indexing and querying chain data, supports the Besc Network. Go to [https://thegraph.com/](https://thegraph.com/) to sign up and create your subgraph.
+TheGraph, a decentralized protocol for indexing and querying chain data, supports the  Network. Go to [https://thegraph.com/](https://thegraph.com/) to sign up and create your subgraph.
 
 * Follow the instructions for how to deploy the subgraph
-* in `subgraph.yaml`, the network name should be `fuse`
+* in `subgraph.yaml`, the network name should be BESC
 
 ## Available Subgraphs
 
-Subgraphs that builded and maintained by the Besc team, deployed on Besc internal infrastructure or The Graph hosted service.
+Subgraphs that built and maintained by the BESC team, deployed on BESC internal infrastructure or The Graph hosted service.
 
-### Besc Consensus
+### BESC Consensus
 
-on Besc graph-node: [https://thegraph.bescscan.io/subgraphs/name/faktchain/fakt-consensus](https://thegraph.bescscan.io/subgraphs/name/faktchain/fakt-consensus)
+BESC graph-node: [https://thegraph.bescscan.io/subgraphs/name/faktchain/fakt-consensus](https://thegraph.bescscan.io/subgraphs/name/faktchain/fakt-consensus)

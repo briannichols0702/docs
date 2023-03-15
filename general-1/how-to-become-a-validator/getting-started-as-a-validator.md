@@ -2,9 +2,9 @@
 
 ## Pre-requirements
 
-In order to be a Besc validator, you first must see that you meet the pre-requirements:
+In order to be a BESC validator, you first must see that you meet the pre-requirements:
 
-* You know what it means to be a Besc validator - How to become a validator
+* You know what it means to be a BESC validator - How to become a validator
 * You have at least 10K BESC tokens or you will have an aggregated delegation of at least 10K BESC tokens (you can purchase BESC token on [BeanSwap](https://beanswap.finance/swap)).
 
 ## How to become a Besc validator

@@ -8,7 +8,7 @@ See BIP1 for more info [https://github.com/fuseio/FIPs/blob/master/FIPS/fip-1.md
 
 ### What is a FIP?
 
-BIP stands for Besc Improvement Proposal. A BIP is a design document providing information to the Besc community, or describing a new feature for Besc. The BIP should provide motivation and technical specification for the feature.
+BIP stands for BESC Improvement Proposal. A BIP is a design document providing information to the BESC community, or describing a new feature for BESC. The BIP should provide motivation and technical specification for the feature.
 
 | FIP                                                               | Description                                                  | Status                                                 |
 | ----------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ |

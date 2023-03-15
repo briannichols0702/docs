@@ -1,4 +1,4 @@
-# Besc Token (BESC)
+# BeanEco SmartChain Token (BESC)
 
 The BESC token is the native currency of the BeanEco Smart chain and platform, just like ETH on Ethereum.
 
@@ -34,7 +34,7 @@ The ongoing liquidity rewards programs on DEX can be discovered [here](https://b
 
 ### Other ways of obtaining BESC
 
-From time to time, the Besc team uses BESC to pay rewards to the members of the community for various forms of participation and community engagement. The best way to stay up to date about these opportunities is to follow Besc's [social channels](https://t.me/beanecosystem).
+From time to time, the BESC team uses BESC to pay rewards to the members of the community for various forms of participation and community engagement. The best way to stay up to date about these opportunities is to follow BESC [social channels](https://t.me/beanecosystem).
 
 The BESC token is also used to power BESC grants and bounties. Please consult the [Grants and Bounties](https://t.me/bescsupport) section for more details.
 

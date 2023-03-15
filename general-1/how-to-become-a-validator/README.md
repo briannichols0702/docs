@@ -1,16 +1,16 @@
 # How to become a validator
 
-The Besc network is operated by validator nodes that are hosted by network participants from all around the world. The network allows entrepreneurs to easily plug payments to their products and on-board their users to a platform that allows them to pay, transact and access financial services in their favorite currency.
+The BESC network is operated by validator nodes that are hosted by network participants from all around the world. The network allows entrepreneurs to easily plug payments to their products and on-board their users to a platform that allows them to pay, transact and access financial services in their favorite currency.
 
-All the access to the network is public and all the code is open source so it could be customized and localized to their needs. Any community that lives on the Besc chain needs to pay a small fee to the validators of the network to validate its transactions in the community.
+All the access to the network is public and all the code is open source so it could be customized and localized to their needs. Any community that lives on the BESC chain needs to pay a small fee to the validators of the network to validate its transactions in the community.
 
 The more communities and users conducting transactions, the more validators will earn as a reward for approving the transaction. This allows the network to grow organically as more usage in the system more network participants rewards grow.
 
 ### What it means to be a validator?
 
-Any entity that is holding the Besc token can run a node that approves transaction in the network and in doing so receive rewards in the form of Besc token (BESC).
+Any entity that is holding the BESC token can run a node that approves transaction in the network and in doing so receive rewards in the form of Besc token (BESC).
 
-Validators are running special software that holds a copy of the Besc blockchain and validating transactions in the network.
+Validators are running special software that holds a copy of the BESC blockchain and validating transactions in the network.
 
 Every 5 seconds, the network groups the latest transactions broadcasted to the system, validates them and signs them so they could never be changed in the future.
 
@@ -22,9 +22,9 @@ Validators are the guardians of the network and are in charge of not only mainta
 
 ### Who should become a validator?
 
-*   **Companies who build on the network** - Besc open source stack allows many companies to collaborate on the same code-base.
+*   **Companies who build on the network** - BESC open-source stack allows many companies to collaborate on the same code-base.
 
-    Allowing any company that is interested in using the Besc services and code to join as a stakeholder is a new innovative approach to collaboration and partnerships.
+    Allowing any company that is interested in using the BESC services and code to join as a stakeholder is a new innovative approach to collaboration and partnerships.
 
     Any company that builds products on the network can own a piece of it and become a stakeholder.
 
@@ -33,16 +33,16 @@ Validators are the guardians of the network and are in charge of not only mainta
     The company can also use this open-source infrastructure to save costs for their development needs.
 
     Operating a node gives reliable access to the network, participation in its governance and aligns all the different interest behind the operation of the network.
-*   **3rd party service providers** - We are starting to see many service providers creating and providing services across different blockchains. Services like KYC, exchanges, credit score providers, lenders, etc…
+*   **3rd party service providers** - We are starting to see many service providers creating and providing services across different blockchains. Services like KYC, exchanges, credit score providers, lenders, etc.
 
     Any service provider can become a stakeholder in the network and already today we are seeing the potential of cross-blockchain transactions uniting business processes between different entities using cryptography and without middlemen.
-* **Community operators on Besc** - Community operators are the foremost stakeholders in the network and can upgrade themselves to a validator and thus provide better access to their clients.
-* **Non technical users** - Running a node requires technical background in blockchain and web hosting. It’s not very complicated but also not trivial or basic.
-* **Simple holders** - We are looking for validators who are invested in the future of the network and are looking to take an active part. This is what the DPoS (Delegated Proof of Stake) mechanism was born to do.
+* **Community operators on BESC** - Community operators are the foremost stakeholders in the network and can upgrade themselves to a validator and thus provide better access to their clients.
+* **Non-technical users** - Running a node requires technical background in blockchain and web hosting. It’s not very complicated but also not trivial or basic.
+* **Simple holders** - We are looking for validators who are invested in the future of the network and are looking to take an active part. This is what the DPOS (Delegated Proof of Stake) mechanism was born to do.
 
-You can delegate you Besc token to a validator of your choosing. Not everybody that wants to earn rewards need to be a validator! Any token holder can delegate their Besc token to a validator to earn rewards through the validator.
+You can delegate you BESC token to a validator of your choosing. Not everybody that wants to earn rewards need to be a validator! Any token holder can delegate their Besc token to a validator to earn rewards through the validator.
 
 ### How to become a validator?
 
-* Minimum of 10K tokens staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 10K Besc tokens needs to be locked in a contract to be eligible to become a validator.
+* Minimum of 10K tokens staked or delegated. In a DPOS blockchain it is required that all the validators have a staking requirement. The stake of 10K BESC tokens needs to be locked in a contract to be eligible to become a validator.
 * Run a full node.
