@@ -1,11 +1,11 @@
-# Boosting Besc's Scalability
+# Boosting BESC Scalability
 
-Scalability is a challenge faced by all public blockchains, and Besc is no exception. Although, currently, the Besc blockchain is far from being saturated by the incoming transactions the project team is keenly aware that this may change at any moment.
+Scalability is a challenge faced by all public blockchains, and BESC is no exception. Although, currently, the BESC blockchain is far from being saturated by the incoming transactions the project team is keenly aware that this may change at any moment.
 
-Hence, research has been ongoing into the potential options for boosting the scalability of Besc without significantly sacrificing decentralization and security.
+Hence, research has been ongoing into the potential options for boosting the scalability of BESC without significantly sacrificing decentralization and security.
 
-One approach the Besc team has been considering closely for boosting scalability is optimistic rollups. We have been carefully researching the available options, including Arbitrum and Optimism and we hope to be able to update our community soon on the state and future direction of that effort.
+One approach the BESC team has been considering closely for boosting scalability is optimistic rollups. We have been carefully researching the available options, including Arbitrum and Optimism and we hope to be able to update our community soon on the state and future direction of that effort.
 
 Another line of research and development work has been around Flutter Layer 2 payments (FL2P) relying on [zero-knowledge (ZK) rollup](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-rollups/) technology. It involves processing most of the transactions within a ZK-enabled second layer environment and periodically batching or 'rolling up' transactions as a single ZK proof on the Layer 1 blockchain.
 
-FL2P is an SDK that will enable developers to integrate ZK rollups directly into their mobile crypto wallet software. As Besc's ecosystem is mobile-centric, the integration of FL2P into the Besc wallet technology will allow scaling a lion's share of the network transactions.
+FL2P is an SDK that will enable developers to integrate ZK rollups directly into their mobile crypto wallet software. As BESC ecosystem is mobile-centric, the integration of FL2P into the BESC wallet technology will allow scaling a lion's share of the network transactions.

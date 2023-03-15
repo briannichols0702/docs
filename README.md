@@ -1,5 +1,5 @@
 ---
-description: Welcome to the documentation portal for Besc
+description: Welcome to the documentation portal for BESC
 ---
 
 # Summary
