@@ -14,7 +14,7 @@ The Besc documentation is separated into three major parts:
 
 **2.** **Developer docs.** Developers wishing to build on top of Besc and its mobile-centric infrastructure or run validator nodes should consult this portal.
 
-**3. Tutorials.** This part contains various consumer-focused tutorials. It can be accessed here. \*\*\*\*
+**3. Tutorials.** This part contains various consumer-focused tutorials.
 
 {% hint style="info" %}
 Join our [Telegram group](https://t.me/beanecosystem)\
