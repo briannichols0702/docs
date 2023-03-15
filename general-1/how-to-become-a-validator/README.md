@@ -4,7 +4,7 @@ The Besc network is operated by validator nodes that are hosted by network parti
 
 All the access to the network is public and all the code is open source so it could be customized and localized to their needs. Any community that lives on the Besc chain needs to pay a small fee to the validators of the network to validate its transactions in the community.
 
-The more communities and users conducting transactions, the more validators will earn as a reward for approving the transaction. This allows the network to grow organically as more usage in the system more network participants rewards grow.\\
+The more communities and users conducting transactions, the more validators will earn as a reward for approving the transaction. This allows the network to grow organically as more usage in the system more network participants rewards grow.
 
 ### What it means to be a validator?
 
