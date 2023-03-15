@@ -16,7 +16,7 @@ Locks for your token are displayed publicly on your Investor Dashboard, which ca
 Once created, liquidity locks are permanent and cannot be undone, hidden, or deleted. They are also permissionless, meaning that you cannot withdraw or cancel your locks until the unlock date.
 {% endhint %}
 
-Unvest's liquidity lock tool uses a variant of the vestingTokens smart contract to create liquidLock tokens, which are ERC20 tokens that represent a claim for your LP token but are programmatically locked until the vesting date.
+Unvest's liquidity lock tool uses a variant of the vestingTokens smart contract to create liquidLock tokens, which are BESC20 tokens that represent a claim for your LP token but are programmatically locked until the vesting date.
 
 This means that you can trade liquidLocks, make them composable into other DeFi apps, and even sell them or use them as loan collateral. However, the holder cannot withdraw the liquidity until the vesting date.
 

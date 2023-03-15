@@ -1,6 +1,6 @@
 ---
 description: >-
-  Besc liquidity lock feature allows you to lock your liquidity provider (LP)
+  BESC liquidity lock feature allows you to lock your liquidity provider (LP)
   tokens in a smart contract, preventing them from being sold or transferred
   until the lock period has ended.
 ---
