@@ -1,4 +1,4 @@
-# Besc Assembly
+# BESC Assembly
 
 BESC Assembly is a governance body formed from particularly active members of the BESC community. Its formation is the first step in transitioning full governance and ownership over the BESC platform to the community.
 
@@ -21,3 +21,4 @@ BESC Assembly will regularly distribute the Community Token Pool funds to financ
 
 _**CEO (Founder)**_
 
+<figure><img src="../../../.gitbook/assets/me.jpg" alt=""><figcaption></figcaption></figure>

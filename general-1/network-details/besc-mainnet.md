@@ -4,9 +4,9 @@
 
 **Chain ID: 535037 - 0x829FD**&#x20;
 
-**RPC:** [**http://mainnet-rpc1.bescscan.io**](http://mainnet-rpc1.bescscan.io)****
+**RPC:** [**http://mainnet-rpc.bescscan.io**](http://mainnet-rpc.bescscan.io)****
 
-**RPC:** [**http://mainnet-rpc2.bescscan.io**](http://mainnet-rpc2.bescscan.io)****
+**RPC:** [**http://mainnet-rpc1.bescscan.io**](http://mainnet-rpc1.bescscan.io)****
 
 **Graph Node: https://thegraph.bescscan.io**
 
