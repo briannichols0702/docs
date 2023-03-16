@@ -5,7 +5,8 @@ The following information will help you discover and connect to the Besc blockch
 * **Network name: BESC**
 * **ChanId: 535037**
 * **Gas price: 1.500000007 gwei**
-* **official RPC:** [https://mainnet-rpc.bescscan.io/](https://mainnet-rpc.bescscan.io/)
+* **Official RPC:** [http://mainnet-rpc1.bescscan.io](http://mainnet-rpc1.bescscan.io)
+* **Secondary RPC:** [**http://mainnet-rpc2.bescscan.io**](http://mainnet-rpc2.bescscan.io)****
 * **Explorer:** [http://bescscan.io/](http://bescscan.io/)
 * **BESC CHAIN MAINNET**&#x20;
 * **Chain ID: 535037 - 0x829FD**
