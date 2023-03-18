@@ -42,5 +42,7 @@ _**DEX INFO BESC**_
 
 [Locker BESC](https://besclocker.finance)
 
+****[**Certik Audit**](https://www.certik.com/projects/bean-eco-smart-chain#skynet)****
+
 
 
