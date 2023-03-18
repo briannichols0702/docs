@@ -12,6 +12,7 @@
     * [Delegation through Staking with Validators](general/learn-about-the-fuse-platform/fuse-network-blockchain/validators-and-delegation.md)
     * [Ethereum (EVM) Compatibility and Smart Contracts](general/learn-about-the-fuse-platform/fuse-network-blockchain/ethereum-compatibility-and-smart-contracts.md)
     * [Boosting BESC Scalability](general/learn-about-the-fuse-platform/fuse-network-blockchain/scaling-l2-payments.md)
+    * [Audit](general/learn-about-the-besc-platform/besc-network-blockchain/audit.md)
   * [BeanEco SmartChain Token (BESC)](general/learn-about-the-fuse-platform/fuse-token/README.md)
     * [BESC Tokenomics](general/learn-about-the-fuse-platform/fuse-token/fuse-tokenomics.md)
     * [Exchanges, Wallets, On-Ramps and DeFi Tools Supporting BESC](general/learn-about-the-fuse-platform/fuse-token/exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md)
