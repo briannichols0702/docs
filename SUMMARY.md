@@ -84,3 +84,4 @@
 * [BESC Locker](https://besclocker.finance)
 * [Bridge](https://bridge.bescbridge.network/bridge)
 * [Faucet](https://faucet.bescscan.io)
+* [Certik Audit](https://www.certik.com/projects/bean-eco-smart-chain#skynet)
