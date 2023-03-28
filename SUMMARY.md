@@ -43,6 +43,7 @@
 * [How to run network nodes](general-1/how-to-run-network-nodes.md)
 * [Resources & Tools](general-1/resources-and-tools/README.md)
   * [TheGraph](general-1/resources-and-tools/thegraph.md)
+  * [Contract Verification](general-1/resources-and-tools/contract-verification.md)
 * [Important smart contracts](general-1/important-smart-contracts/README.md)
   * [Bridges](general-1/important-smart-contracts/bridges/README.md)
     * [BSC ↔ BESC BNB](general-1/important-smart-contracts/bridges/bsc-besc-bnb.md)
