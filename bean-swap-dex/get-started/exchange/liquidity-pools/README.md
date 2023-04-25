@@ -16,16 +16,7 @@ Providing liquidity gives you a reward in the form of trading fees when people u
 
 Whenever someone trades on BeanSwap, the trader pays a 3% fee, **of which 1.5%** is added to the Liquidity Pool of the swap pair they traded on.
 
-For example:
 
-* There are 10 LP tokens representing 10 BESC and 10 USDT tokens.
-* 1 LP token = 1 BESC + 1 USDT
-* Someone trades 10 BESC for 10 USDT.
-* Someone else trades 10 USDT for 10 BESC.
-* The USDT/BESC liquidity pool now has 10.017 BESC and 10.017 USDT.
-* Each LP token is now worth 1.00017 BESC + 1.00017 USDT.
-
-To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the BESC[ Farms](https://beanswap.finance/farms), while still earning your 0.17% trading fee reward.
 
 ## Impermanent Loss
 
