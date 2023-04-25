@@ -14,7 +14,7 @@ You can also redeem your funds at any time by removing your liquidity.
 
 Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool.&#x20;
 
-Whenever someone trades on BeanSwap, the trader pays a 3% fee, **of which 1.5%** is added to the Liquidity Pool of the swap pair they traded on.
+Whenever someone trades on BeanSwap, the trader pays a **3% fee**, **of which 1%** is added to the Liquidity Pool of the swap pair they traded on.
 
 
 
