@@ -52,6 +52,9 @@
 
 ***
 
+* [Bean Bag](bean-bag/README.md)
+  * [Privacy Policy](bean-bag/privacy-policy.md)
+  * [App Policy](bean-bag/app-policy.md)
 * [Bean Swap Dex](bean-swap-dex.md)
   * [Get Started](bean-swap-dex/get-started/README.md)
     * [Create Wallet](bean-swap-dex/get-started/create-wallet/README.md)
