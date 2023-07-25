@@ -70,7 +70,7 @@ b. Continued use of the App after such changes implies your acceptance of the re
 
 11. Contact Us:
 
-If you have any questions or concerns regarding this App Policy, please contact us at \[contact email or support page].
+If you have any questions or concerns regarding this App Policy, please contact us at support@bescscan.io.
 
 By using the Bean Bag mobile application, you agree to the terms of this App Policy.
 
