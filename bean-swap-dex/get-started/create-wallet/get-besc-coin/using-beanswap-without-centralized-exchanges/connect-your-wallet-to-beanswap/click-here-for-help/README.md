@@ -33,9 +33,9 @@ However, there's also the chance that you're trying to trade a scam token which 
 
 ### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT**
 
-> Fail with error 'PancakeRouter: INSUFFICIENT\_A\_AMOUNT'\
-> or\
-> Fail with error 'PancakeRouter: INSUFFICIENT\_B\_AMOUNT'
+> Fail with error 'BeanSwapRouter: INSUFFICIENT\_A\_AMOUNT'
+>
+> BeanswapRouter: INSUFFICIENT\_B\_AMOUNT'
 
 You're trying to add/remove liquidity from a liquidity pool (LP), but there isn't enough of one of the two tokens in the pair.
 
@@ -104,7 +104,7 @@ This can cause very high slippage, and can cause the user to lose some funds if 
 {% endtab %}
 {% endtabs %}
 
-### PancakeRouter: EXPIRED
+### BeanSwapRouter: EXPIRED
 
 > The transaction cannot succeed due to error: PancakeRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
 
@@ -112,9 +112,9 @@ Try again, but confirm (sign and broadcast) the transaction as soon as you gener
 
 This happened because you started making a transaction, but you didn't sign and broadcast it until it was past the deadline. That means you didn't hit "Confirm" quickly enough.
 
-### Pancake: K
+### BeanSwap: K
 
-> The transaction cannot succeed due to error: Pancake: K. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: BeanSwap: K. This is probably an issue with one of the tokens you are swapping.
 
 Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
 
@@ -122,7 +122,7 @@ Try modifying the amount on “To” field. Therefore putting "(estimated)" symb
 
 This usually happen when you are trying to swap a token with its own fee.
 
-### Pancake: TRANSFER\_FAILED
+### BeanSwap: TRANSFER\_FAILED
 
 > The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
 
