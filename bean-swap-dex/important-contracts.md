@@ -12,3 +12,5 @@ Master Builder: [https://bescscan.io/address/0x82572A0b69D2e22e096C8383914C3848a
 
 Dex Token Vault: [https://bescscan.io/address/0xCb3e9919C56efF1004E54175a01e39163a352129](https://bescscan.io/address/0xCb3e9919C56efF1004E54175a01e39163a352129)
 
+Dex Pair same code as factory: [https://bescscan.io/address/0xDa69e44750Ecf0630E79189F890B23F0dB9265A4/contracts#address-tabs](https://bescscan.io/address/0xDa69e44750Ecf0630E79189F890B23F0dB9265A4/contracts#address-tabs)
+
