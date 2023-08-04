@@ -70,6 +70,7 @@
       * [Liquidity Pools](bean-swap-dex/get-started/exchange/liquidity-pools/README.md)
         * [How to Add/Remove Liquidity](bean-swap-dex/get-started/exchange/liquidity-pools/how-to-add-remove-liquidity.md)
   * [Important Contracts](bean-swap-dex/important-contracts.md)
+  * [SubGraphs](bean-swap-dex/subgraphs.md)
 * [BESC Locker](besc-locker.md)
   * [Simple Lock](besc-locker/simple-lock.md)
   * [Lock Liquidity On BESC Locker](besc-locker/lock-liquidity-on-besc-locker.md)
